@@ -1,1 +1,3 @@
 Hi Team! Welcome to this SCM Training.
+
+SCM is the stage 1 in our DevOps Lifecycle.
