@@ -1,3 +1,5 @@
 Hi There!
 
 Day 2 - Source Code Management 
+
+Today we are discussing on staging changes
